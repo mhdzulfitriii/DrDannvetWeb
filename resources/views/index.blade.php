@@ -36,7 +36,7 @@
                     <div class="col-md-6 text ftco-animate">
                         <h1 class="mb-4">"Kindly Treat Every Patient with Love"</h1> <!-- Removed extra </span> -->
                         <h3 class="subheading">Everyday We Bring Hope and Smile to the Patient We Serve</h3>
-                        <p><a href="about.html" class="btn btn-secondary px-4 py-3 mt-3"
+                        <p><a href="https://admin.drdannvet.shop/booking.php" class="btn btn-secondary px-4 py-3 mt-3"
                                 style="background-color: #7b1113;">Booking Now!</a></p>
                     </div>
                 </div>
@@ -51,7 +51,7 @@
                     <div class="col-md-6 text ftco-animate">
                         <h1 class="mb-4">"Treat All the Same"</h1>
                         <h3 class="subheading">Dedicated to Your Pet's Well-Being with Expert, Affordable Care.</h3>
-                        <p><a href="department.html" class="btn btn-secondary px-4 py-3 mt-3"
+                        <p><a href="{{route('department')}}" class="btn btn-secondary px-4 py-3 mt-3"
                                 style="background-color: #7b1113;">Our Services</a></p>
                     </div>
                 </div>

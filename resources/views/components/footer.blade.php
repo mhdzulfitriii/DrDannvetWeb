@@ -20,13 +20,13 @@
                         <div class="ftco-footer-widget mb-5">
                             <h2 class="ftco-heading-2">Links</h2>
                             <ul class="list-unstyled">
-                                <li><a href="http://localhost/Employee-management-system/booking.php"><span
+                                <li><a href="https://admin.drdannvet.shop/booking.php"><span
                                             class="fas fa-arrow-right mr-2"></span>Booking</a></li>
-                                <li><a href="doctor.html"><span
+                                <li><a href="{{route('doctor')}}"><span
                                             class="fas fa-arrow-right mr-2"></span>Doctors</a></li>
-                                <li><a href="department.html"><span
+                                <li><a href="{{route('department')}}"><span
                                             class="fas fa-arrow-right mr-2"></span>Treatments</a></li>
-                                <li><a href="pricing.html"><span
+                                <li><a href="{{route('pricing')}}"><span
                                             class="fas fa-arrow-right mr-2"></span>Pricing</a></li>
                             </ul>
                         </div>
@@ -37,23 +37,23 @@
                         <div class="ftco-footer-widget mb-5">
                             <h2 class="ftco-heading-2">Services</h2>
                             <ul class="list-unstyled">
-                                <li><a href="department.html"><span
+                                <li><a href="{{route('department')}}"><span
                                             class="fas fa-arrow-right mr-2"></span>Vaccinations</a></li>
-                                <li><a href="department.html"><span
+                                <li><a href="{{route('department')}}"><span
                                             class="fas fa-arrow-right mr-2"></span>Grooming</a></li>
-                                <li><a href="department.html"><span
+                                <li><a href="{{route('department')}}"><span
                                             class="fas fa-arrow-right mr-2"></span>Basic Treatment</a>
                                 </li>
-                                <li><a href="department.html"><span
+                                <li><a href="{{route('department')}}"><span
                                             class="fas fa-arrow-right mr-2"></span>Dental Scalling</a>
                                 </li>
-                                <li><a href="department.html"><span
+                                <li><a href="{{route('department')}}"><span
                                             class="fas fa-arrow-right mr-2"></span>Boarding</a></li>
-                                <li><a href="department.html"><span
+                                <li><a href="{{route('department')}}"><span
                                             class="fas fa-arrow-right mr-2"></span>Consultation</a></li>
-                                <li><a href="department.html"><span
+                                <li><a href="{{route('department')}}"><span
                                             class="fas fa-arrow-right mr-2"></span>Minor Surgery</a></li>
-                                <li><a href="department.html"><span
+                                <li><a href="{{route('department')}}"><span
                                             class="fas fa-arrow-right mr-2"></span>Pemandulan</a></li>
                             </ul>
                         </div>
