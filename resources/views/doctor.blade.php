@@ -3,6 +3,27 @@
 @section('content')
     @include('components.header')
 
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark ftco-navbar-light" id="ftco-navbar">
+        <div class="container d-flex align-items-center">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav"
+                aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="oi oi-menu"></span> Menu
+            </button>
+            <div class="collapse navbar-collapse" id="ftco-nav">
+                <ul class="navbar-nav m-auto">
+                    <li class="nav-item"><a href="{{route('home')}}" class="nav-link pl-0">Home</a></li>
+                    <li class="nav-item active"><a href="{{route('doctor')}}" class="nav-link">Doctor</a></li>
+                    <li class="nav-item"><a href="{{route('department')}}" class="nav-link">Treatments</a></li>
+                    <li class="nav-item"><a href="{{route('pricing')}}" class="nav-link">Pricing</a></li>
+                    <li class="nav-item"><a href="https://admin.drdannvet.shop/booking.php"
+                            class="nav-link">Booking</a></li>
+                    <li class="nav-item"><a href="https://admin.drdannvet.shop/index.php" class="nav-link">
+                            Staff Login</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
     <section class="hero-wrap hero-wrap-2" style="background-color: #ab4e52;">
         <div class="overlay" style="background: none;"></div> <!-- Make the overlay transparent -->
         <div class="container">

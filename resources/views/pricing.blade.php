@@ -11,13 +11,13 @@
             </button>
             <div class="collapse navbar-collapse" id="ftco-nav">
                 <ul class="navbar-nav m-auto">
-                    <li class="nav-item"><a href="index.html" class="nav-link pl-0">Home</a></li>
-                    <li class="nav-item"><a href="doctor.html" class="nav-link">Doctor</a></li>
-                    <li class="nav-item"><a href="department.html" class="nav-link">Treatments</a></li>
-                    <li class="nav-item active"><a href="pricing.html" class="nav-link">Pricing</a></li>
-                    <li class="nav-item"><a href="http://localhost/Employee-management-system/booking.php"
+                    <li class="nav-item"><a href="{{route('home')}}" class="nav-link pl-0">Home</a></li>
+                    <li class="nav-item"><a href="{{route('doctor')}}" class="nav-link">Doctor</a></li>
+                    <li class="nav-item"><a href="{{route('department')}}" class="nav-link">Treatments</a></li>
+                    <li class="nav-item active"><a href="{{route('pricing')}}" class="nav-link">Pricing</a></li>
+                    <li class="nav-item"><a href="https://admin.drdannvet.shop/booking.php"
                             class="nav-link">Booking</a></li>
-                    <li class="nav-item"><a href="http://localhost/Employee-management-system/index.php" class="nav-link">
+                    <li class="nav-item"><a href="https://admin.drdannvet.shop/index.php" class="nav-link">
                             Staff Login</a></li>
                 </ul>
             </div>
@@ -67,7 +67,7 @@
                         <ul>
                             <li>Outpatient Treatment</li>
                         </ul>
-                        <p class="button text-center"><a href="https://localhost/Employee-management-system/booking.php"
+                        <p class="button text-center"><a href="https://admin.drdannvet.shop/booking.php"
                                 class="btn btn-primary px-4 py-3" style="background-color: #7b1113;">Booking Now</a></p>
                     </div>
                 </div>
@@ -82,7 +82,7 @@
                         <ul>
                             <li>Lioncut</li>
                         </ul>
-                        <p class="button text-center"><a href="http://localhost/Employee-management-system/booking.php"
+                        <p class="button text-center"><a href="https://admin.drdannvet.shop/booking.php"
                                 class="btn btn-primary px-4 py-3" style="background-color: #7b1113;">Booking Now</a></p>
                     </div>
                 </div>
@@ -98,7 +98,7 @@
                         <ul>
                             <li>Cat Vaccination</li>
                         </ul>
-                        <p class="button text-center"><a href="http://localhost/Employee-management-system/booking.php"
+                        <p class="button text-center"><a href="https://admin.drdannvet.shop/booking.php"
                                 class="btn btn-primary px-4 py-3" style="background-color: #7b1113;">Booking Now</a></p>
                     </div>
                 </div>
@@ -113,7 +113,7 @@
                         <ul>
                             <li>Dental Scaling</li>
                         </ul>
-                        <p class="button text-center"><a href="http://localhost/Employee-management-system/booking.php"
+                        <p class="button text-center"><a href="https://admin.drdannvet.shop/booking.php"
                                 class="btn btn-primary px-4 py-3" style="background-color: #7b1113;">Booking Now</a></p>
                     </div>
                 </div>
@@ -134,7 +134,7 @@
                         <ul>
                             <li>Cat Grooming</li>
                         </ul>
-                        <p class="button text-center"><a href="http://localhost/Employee-management-system/booking.php"
+                        <p class="button text-center"><a href="https://admin.drdannvet.shop/booking.php"
                                 class="btn btn-primary px-4 py-3" style="background-color: #7b1113;">Booking Now</a></p>
                     </div>
                 </div>
@@ -151,7 +151,7 @@
                             <li>Minor Surgery</li>
                             <li>Warded</li>
                         </ul>
-                        <p class="button text-center"><a href="http://localhost/Employee-management-system/booking.php"
+                        <p class="button text-center"><a href="https://admin.drdannvet.shop/booking.php"
                                 class="btn btn-primary px-4 py-3" style="background-color: #7b1113;">Booking Now</a></p>
                     </div>
                 </div>
@@ -167,7 +167,7 @@
                             <li>Pemandulan Kucing Jantan</li>
                             <li>Pemandulan Kucing Betina</li>
                         </ul>
-                        <p class="button text-center"><a href="http://localhost/Employee-management-system/booking.php"
+                        <p class="button text-center"><a href="https://admin.drdannvet.shop/booking.php"
                                 class="btn btn-primary px-4 py-3" style="background-color: #7b1113;">Booking Now</a></p>
                     </div>
                 </div>

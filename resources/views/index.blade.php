@@ -16,9 +16,9 @@
                     <li class="nav-item"><a href="{{route('doctor')}}" class="nav-link">Doctor</a></li>
                     <li class="nav-item"><a href="{{route('department')}}" class="nav-link">Treatments</a></li>
                     <li class="nav-item"><a href="{{route('pricing')}}" class="nav-link">Pricing</a></li>
-                    <li class="nav-item"><a href="http://localhost/Employee-management-system/booking.php"
+                    <li class="nav-item"><a href="https://admin.drdannvet.shop/booking.php"
                             class="nav-link">Booking</a></li>
-                    <li class="nav-item"><a href="http://localhost/Employee-management-system/index.php" class="nav-link">
+                    <li class="nav-item"><a href="https://admin.drdannvet.shop/index.php" class="nav-link">
                             Staff Login</a></li>
                 </ul>
             </div>
