@@ -21,13 +21,13 @@
                             <h2 class="ftco-heading-2">Links</h2>
                             <ul class="list-unstyled">
                                 <li><a href="http://localhost/Employee-management-system/booking.php"><span
-                                            class="ion-ios-arrow-round-forward mr-2"></span>Booking</a></li>
+                                            class="fas fa-arrow-right mr-2"></span>Booking</a></li>
                                 <li><a href="doctor.html"><span
-                                            class="ion-ios-arrow-round-forward mr-2"></span>Doctors</a></li>
+                                            class="fas fa-arrow-right mr-2"></span>Doctors</a></li>
                                 <li><a href="department.html"><span
-                                            class="ion-ios-arrow-round-forward mr-2"></span>Treatments</a></li>
+                                            class="fas fa-arrow-right mr-2"></span>Treatments</a></li>
                                 <li><a href="pricing.html"><span
-                                            class="ion-ios-arrow-round-forward mr-2"></span>Pricing</a></li>
+                                            class="fas fa-arrow-right mr-2"></span>Pricing</a></li>
                             </ul>
                         </div>
                     </div>
@@ -38,23 +38,23 @@
                             <h2 class="ftco-heading-2">Services</h2>
                             <ul class="list-unstyled">
                                 <li><a href="department.html"><span
-                                            class="ion-ios-arrow-round-forward mr-2"></span>Vaccinations</a></li>
+                                            class="fas fa-arrow-right mr-2"></span>Vaccinations</a></li>
                                 <li><a href="department.html"><span
-                                            class="ion-ios-arrow-round-forward mr-2"></span>Grooming</a></li>
+                                            class="fas fa-arrow-right mr-2"></span>Grooming</a></li>
                                 <li><a href="department.html"><span
-                                            class="ion-ios-arrow-round-forward mr-2"></span>Basic Treatment</a>
+                                            class="fas fa-arrow-right mr-2"></span>Basic Treatment</a>
                                 </li>
                                 <li><a href="department.html"><span
-                                            class="ion-ios-arrow-round-forward mr-2"></span>Dental Scalling</a>
+                                            class="fas fa-arrow-right mr-2"></span>Dental Scalling</a>
                                 </li>
                                 <li><a href="department.html"><span
-                                            class="ion-ios-arrow-round-forward mr-2"></span>Boarding</a></li>
+                                            class="fas fa-arrow-right mr-2"></span>Boarding</a></li>
                                 <li><a href="department.html"><span
-                                            class="ion-ios-arrow-round-forward mr-2"></span>Consultation</a></li>
+                                            class="fas fa-arrow-right mr-2"></span>Consultation</a></li>
                                 <li><a href="department.html"><span
-                                            class="ion-ios-arrow-round-forward mr-2"></span>Minor Surgery</a></li>
+                                            class="fas fa-arrow-right mr-2"></span>Minor Surgery</a></li>
                                 <li><a href="department.html"><span
-                                            class="ion-ios-arrow-round-forward mr-2"></span>Pemandulan</a></li>
+                                            class="fas fa-arrow-right mr-2"></span>Pemandulan</a></li>
                             </ul>
                         </div>
                     </div>
@@ -68,20 +68,20 @@
                                     <li>
                                         <a href="https://www.google.com/maps/search/?api=1&query=60%2C+Jln+Makmur+2%2C+Bandar+Satelit%2C+26700+Muadzam+Shah%2C+Pahang"
                                             target="_blank">
-                                            <span class="icon icon-map-marker"></span>
+                                            <span class="fas fa-map-marker-alt  pr-2"></span>
                                             <span class="text">60, Jln Makmur 2, Bandar Satelit, 26700 Muadzam
                                                 Shah, Pahang</span>
                                         </a>
                                     </li>
                                     <li>
                                         <a href="tel:0197616416">
-                                            <span class="icon icon-phone"></span>
+                                            <span class="fas fa-phone pr-2"></span>
                                             <span class="text">019-761 6416</span>
                                         </a>
                                     </li>
                                     <li>
                                         <a href="mailto:klinikhaiwandrdann@gmail.com">
-                                            <span class="icon icon-envelope"></span>
+                                            <span class="fas fa-envelope pr-2"></span>
                                             <span class="text">klinikhaiwandrdann@gmail.com</span>
                                         </a>
                                     </li>
@@ -93,13 +93,13 @@
                                 <li class="ftco-animate">
                                     <a href="https://www.facebook.com/klinikhaiwandrdann/?locale=ms_MY"
                                         target="_blank">
-                                        <span class="icon-facebook"></span>
+                                        <span class="fab fa-facebook"></span>
                                     </a>
                                 </li>
                                 <!-- Instagram -->
                                 <li class="ftco-animate">
                                     <a href="https://www.instagram.com/klinikhaiwan_drdann/" target="_blank">
-                                        <span class="icon-instagram"></span>
+                                        <span class="fab fa-instagram"></span>
                                     </a>
                                 </li>
                             </ul>
